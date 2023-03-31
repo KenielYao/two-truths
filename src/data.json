@@ -1,0 +1,44 @@
+[{
+    "setId": 1,
+    "topic": "Chemistry",
+    "setContents": [
+        {
+            "factId": "1", 
+            "fact": "Hydrogen and oxygen combine to form water",
+            "isLie": false,
+            "explanation": "Water (H2O) is made of two hydrogen atoms and one oxygen atom."
+        },{
+            "factId": "2", 
+            "fact": "Carbon has six protons in its nucleus",
+            "isLie": false,
+            "explanation": "Carbon has an atomic number of 6."
+        },{
+            "factId": "3",
+            "fact": "Sodium is a noble gas",
+            "isLie": true,
+            "explanation": "Sodium is a silvery-white, highly reactive alkali metal."
+        }
+    ]
+},{
+    "setId": 2,
+    "topic": "Chemistry",
+    "setContents": [
+        {
+            "factId": "1", 
+            "fact": "Nitrogen is the most abundant gas in the atmosphere",
+            "isLie": false,
+            "explanation": "Nitrogen makes up about 75% of the atmosphere's mass."
+        },{
+            "factId": "2", 
+            "fact": "Sulfuric acid is a base",
+            "isLie": true,
+            "explanation": "Sulfuric acid is a strong acid and can cause severe chemical burns."
+        },{
+            "factId": "3",
+            "fact": "Argon is a noble gas",
+            "isLie": false,
+            "explanation": "Argon is in group 18 of the periodic table and is chemically inert under most conditions."
+        }
+    ]
+}
+]
